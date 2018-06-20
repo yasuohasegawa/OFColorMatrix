@@ -2,6 +2,8 @@
 
 This code is a port of http://www.quasimondo.com/colormatrix/ColorMatrix.as.<br>
 This is only tested on windows 10.
+<br>
+In order to use this code, you need a fragment shader code where it'S located at "./bin/data/shader/" directory.
 
 original image:<br>
 ![Screenshot](original.JPG)
