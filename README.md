@@ -4,7 +4,7 @@ This code is a port of http://www.quasimondo.com/colormatrix/ColorMatrix.as
 This is only tested on windows 10.
 
 original image:<br>
-![Screenshot](original.jpg)
+![Screenshot](original.JPG)
 <br>
 
 invert:<br>
