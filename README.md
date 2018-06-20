@@ -1,6 +1,6 @@
 # OFColorMatrix
 
-This code is a port of http://www.quasimondo.com/colormatrix/ColorMatrix.as
+This code is a port of http://www.quasimondo.com/colormatrix/ColorMatrix.as.<br>
 This is only tested on windows 10.
 
 original image:<br>
